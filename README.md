@@ -18,6 +18,8 @@ Contains 25K subreddits from [Reddit's Top](www.reddit.com/best/communities/1/),
 
 * `name`: Name of subreddit
 * `n_members`: Number of members
+
+<hr>
 </details>
 
 <details>
@@ -30,6 +32,8 @@ Each row describes a subreddit-moderator pair:
 I used a very simple procedure to filter out auto-moderators: (1) a short list of known bots (e.g. `u/AutoModerator`), (2) username starts or ends with `bot`.
 
 *IMPORTANT:* An additional procedure to identify and remove bots might be necessary. For example, one could remove all accounts that moderate >100 communities.
+
+<hr>
 </details>
 
 <details>
@@ -37,6 +41,8 @@ I used a very simple procedure to filter out auto-moderators: (1) a short list o
 List of moderators that were identified as bots  by the primitive procedure, described in the previous section. These accounts were already removed from `moderators.csv`.
 
 * `name`: Username of bot
+
+<hr>
 </details>
 
 #### GEXF – data in graph format
@@ -44,11 +50,15 @@ List of moderators that were identified as bots  by the primitive procedure, des
 <details>
 <summary><code>multi_graph.gexf</code></summary></br>
   A multigraph where nodes are subreddits and edges are moderators. Both nodes and edges carry labels. A pair of nodes is connected by an edge, if the associated subreddits have a moderator in common. If they share two or more moderators, they will be connected by multiple edges. 
+
+<hr>
 </details>
 
 <details>
 <summary><code>simple_graph.gexf</code></summary></br>
   A multigraph where nodes are subreddits and edges are moderators. Unlike `multi_graph.gexf`, here a pair of subreddits is connected by at most a single edge. Each edge carries an addition property, called `weight`, which reflected how many moderators there are in common. An edge label is a list of all moderators in common, separated by commas.
+  
+<hr>
 </details>
 
 
