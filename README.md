@@ -14,7 +14,7 @@ The data was scraped in the associated [Jupyter Notebook](code/reddit-mods-db.ip
 
 <details>
 <summary><code>subreddits.csv</code></summary></br>
-Contains 25K subreddits from [Reddit's Top](www.reddit.com/best/communities/1/), combined with the [list](http://www.reddit.com/subreddits/) of Reddit's most popular communities. The two lists are not identical, as described in the Jupyter notebook. The headers are:
+Contains 25K subreddits from <a href="www.reddit.com/best/communities/1/">Reddit's Top</a>, combined with the <a href="http://www.reddit.com/subreddits/">list</a> of Reddit's most popular communities. The two lists are not identical, as described in the Jupyter notebook. The headers are:
 
 * `name`: Name of subreddit
 * `n_members`: Number of members
