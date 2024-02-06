@@ -55,7 +55,9 @@ List of moderators that were identified as bots  by the primitive procedure, des
 
 <details>
 <summary><code>simple_graph.gexf</code></summary></br>
-  A multigraph where nodes are subreddits and edges are moderators. Unlike `multi_graph.gexf`, here a pair of subreddits is connected by at most a single edge. Each edge carries an addition property, called `weight`, which reflected how many moderators there are in common. An edge label is a list of all moderators in common, separated by commas.
+  A multigraph where nodes are subreddits and edges are moderators. Unlike `multi_graph.gexf`, here a pair of subreddits is connected by at most a single edge. Each edge carries an addition property, called `weight`, which reflected how many moderators there are in common. An edge label is a list of all moderators in common, separated by commas. 
+  
+  It is useful because programs, such as GePhi, don't support multigraphs.
   
 <hr>
 </details>
