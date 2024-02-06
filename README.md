@@ -63,7 +63,4 @@ List of moderators that were identified as bots  by the primitive procedure, des
 
 ## Examples
 
-An example of a visualisation that can be created using this graph.
-![img](examples/mods-r-palestine-by-level.png)
-
-The color is based on the degree of removal: subs that share a mod with `r/Palestine` are colored pink, whereas the subs that share a mod with a pink sub are colored blue.
+1. [Visualising a cluster of subreddits moderated by a group of users](examples/mods-r-palestine-by-level.png)
