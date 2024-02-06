@@ -1,4 +1,4 @@
-# RedditMods: Moderators of top-25 Reddit Communities
+# RedditMods: Moderators of top-25'000 Reddit Communities
 
 <a href="https://www.kaggle.com/datasets/gingerbadger/reddit-moderators-top-25k-subreddits/data" rel="Kaggle dataset">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a> ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 
