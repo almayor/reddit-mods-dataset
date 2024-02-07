@@ -39,7 +39,7 @@ The data is available both as a table and a bipartite graph.
 	
 	* `subreddit`: Name of subreddit
 	* `moderator`: Username of moderator
-	* 
+	
 	<hr>
 
 3. `bots.csv`
