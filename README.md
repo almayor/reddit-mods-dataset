@@ -9,6 +9,14 @@ The data was scraped in the associated [Jupyter Notebook](code/reddit-mods-db.ip
 
 ## Description of Files
 
+#### GEXF – data in graph format
+
+1. `graph.gexf`
+
+	A bipartite graph, where nodes in the first group (having attribute `bipartite=0`) are moderators and nodes in the second group (having attribute `bipartite=1`) are subreddits. A moderator-node is connected with a subreddit-node if that moderator moderates this subreddit.
+	  
+	<hr>
+	
 #### CSV – data in table format
 
 1. `subreddits.csv`
@@ -38,22 +46,6 @@ The data was scraped in the associated [Jupyter Notebook](code/reddit-mods-db.ip
 	* `name`: Username of bot
 
 	<hr>
-
-#### GEXF – data in graph format
-
-1. `multi_graph.gexf`
-
-	  A multigraph where nodes are subreddits and edges are moderators. Both nodes and edges carry labels. A pair of nodes is connected by an edge, if the associated subreddits have a moderator in common. If they share two or more moderators, they will be connected by multiple edges. 
-	<hr>
-	
-2. `simple_graph.gexf`
-
-	A multigraph where nodes are subreddits and edges are moderators. Unlike `multi_graph.gexf`, here a pair of subreddits is connected by at most a single edge. Each edge carries an addition property, called `weight`, which reflected how many moderators there are in common. An edge label is a list of all moderators in common, separated by commas. 
-  
-  	It is useful because programs, such as GePhi, don't support multigraphs.
-  
-	<hr>
-
 
 ## Examples
 
