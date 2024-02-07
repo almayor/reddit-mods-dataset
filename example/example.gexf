@@ -5,357 +5,283 @@
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
     <attributes mode="static" class="edge">
-      <attribute id="1" title="conductivity" type="double" />
+      <attribute id="2" title="conductivity" type="double" />
     </attributes>
     <attributes mode="static" class="node">
-      <attribute id="0" title="bipartite" type="long" />
+      <attribute id="0" title="size" type="long" />
+      <attribute id="1" title="bipartite" type="long" />
     </attributes>
     <nodes>
-      <node id="lifeaquatic" label="lifeaquatic">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </node>
-      <node id="Judaism" label="Judaism">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </node>
-      <node id="deyterkourjerbs" label="deyterkourjerbs">
-        <attvalues>
-          <attvalue for="0" value="0" />
-        </attvalues>
-      </node>
-      <node id="AdorableBunnies" label="AdorableBunnies">
-        <attvalues>
-          <attvalue for="0" value="0" />
-        </attvalues>
-      </node>
-      <node id="MendyZibulnik" label="MendyZibulnik">
-        <attvalues>
-          <attvalue for="0" value="0" />
-        </attvalues>
-      </node>
-      <node id="Jewish" label="Jewish">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </node>
-      <node id="glassshield" label="glassshield">
-        <attvalues>
-          <attvalue for="0" value="0" />
-        </attvalues>
-      </node>
-      <node id="salvage" label="salvage">
-        <attvalues>
-          <attvalue for="0" value="0" />
-        </attvalues>
-      </node>
-      <node id="burgers" label="burgers">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </node>
-      <node id="missouri" label="missouri">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </node>
-      <node id="snowden" label="snowden">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </node>
-      <node id="acey" label="acey">
-        <attvalues>
-          <attvalue for="0" value="0" />
-        </attvalues>
-      </node>
-      <node id="DonManuel" label="DonManuel">
-        <attvalues>
-          <attvalue for="0" value="0" />
-        </attvalues>
-      </node>
-      <node id="monsoony" label="monsoony">
-        <attvalues>
-          <attvalue for="0" value="0" />
-        </attvalues>
-      </node>
-      <node id="paleonews" label="paleonews">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </node>
-      <node id="BeforeNAfterAdoption" label="BeforeNAfterAdoption">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </node>
-      <node id="Wildlife" label="Wildlife">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </node>
-      <node id="RenewableEnergy" label="RenewableEnergy">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </node>
-      <node id="MetalusVerne" label="MetalusVerne">
-        <attvalues>
-          <attvalue for="0" value="0" />
-        </attvalues>
-      </node>
-      <node id="veg" label="veg">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </node>
       <node id="analytics" label="analytics">
         <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </node>
-      <node id="drak0bsidian" label="drak0bsidian">
-        <attvalues>
-          <attvalue for="0" value="0" />
+          <attvalue for="0" value="153822" />
+          <attvalue for="1" value="1" />
         </attvalues>
       </node>
       <node id="YiddishCH" label="YiddishCH">
         <attvalues>
-          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
         </attvalues>
       </node>
-      <node id="hotdogs" label="hotdogs">
+      <node id="monsoony" label="monsoony">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
         </attvalues>
       </node>
-      <node id="Yiddish" label="Yiddish">
+      <node id="snowden" label="snowden">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="18769" />
+          <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Shipwrecks" label="Shipwrecks">
+      <node id="RenewableEnergy" label="RenewableEnergy">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="124769" />
+          <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="bigseo" label="bigseo">
+      <node id="lifeaquatic" label="lifeaquatic">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="7711" />
+          <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Ranching" label="Ranching">
+      <node id="salvage" label="salvage">
         <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </node>
-      <node id="nature" label="nature">
-        <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
         </attvalues>
       </node>
       <node id="hebrew" label="hebrew">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="31560" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="DonManuel" label="DonManuel">
+        <attvalues>
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Yiddish" label="Yiddish">
+        <attvalues>
+          <attvalue for="0" value="7732" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="acey" label="acey">
+        <attvalues>
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="veg" label="veg">
+        <attvalues>
+          <attvalue for="0" value="13170" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="nature" label="nature">
+        <attvalues>
+          <attvalue for="0" value="179061" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Wildlife" label="Wildlife">
+        <attvalues>
+          <attvalue for="0" value="26179" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="MendyZibulnik" label="MendyZibulnik">
+        <attvalues>
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="drak0bsidian" label="drak0bsidian">
+        <attvalues>
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Ranching" label="Ranching">
+        <attvalues>
+          <attvalue for="0" value="20880" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Judaism" label="Judaism">
+        <attvalues>
+          <attvalue for="0" value="98828" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="paleonews" label="paleonews">
+        <attvalues>
+          <attvalue for="0" value="10434" />
+          <attvalue for="1" value="1" />
         </attvalues>
       </node>
       <node id="organic" label="organic">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="16995" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="burgers" label="burgers">
+        <attvalues>
+          <attvalue for="0" value="538047" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AdorableBunnies" label="AdorableBunnies">
+        <attvalues>
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Shipwrecks" label="Shipwrecks">
+        <attvalues>
+          <attvalue for="0" value="36009" />
+          <attvalue for="1" value="1" />
         </attvalues>
       </node>
     </nodes>
     <edges>
-      <edge source="lifeaquatic" target="DonManuel" id="45647">
+      <edge source="analytics" target="salvage" id="30541">
         <attvalues>
-          <attvalue for="1" value="125.0" />
-        </attvalues>
-      </edge>
-      <edge source="lifeaquatic" target="monsoony" id="45651">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="Judaism" target="MetalusVerne" id="56833">
-        <attvalues>
-          <attvalue for="1" value="500.0" />
-        </attvalues>
-      </edge>
-      <edge source="Judaism" target="drak0bsidian" id="56837">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="deyterkourjerbs" target="analytics" id="48467">
-        <attvalues>
-          <attvalue for="1" value="500.0" />
-        </attvalues>
-      </edge>
-      <edge source="deyterkourjerbs" target="bigseo" id="48468">
-        <attvalues>
-          <attvalue for="1" value="500.0" />
-        </attvalues>
-      </edge>
-      <edge source="AdorableBunnies" target="BeforeNAfterAdoption" id="22111">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="AdorableBunnies" target="burgers" id="22112">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="AdorableBunnies" target="hotdogs" id="22113">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="AdorableBunnies" target="snowden" id="22114">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="MendyZibulnik" target="hebrew" id="81095">
-        <attvalues>
-          <attvalue for="1" value="500.0" />
-        </attvalues>
-      </edge>
-      <edge source="MendyZibulnik" target="Yiddish" id="81096">
-        <attvalues>
-          <attvalue for="1" value="500.0" />
-        </attvalues>
-      </edge>
-      <edge source="Jewish" target="MetalusVerne" id="56834">
-        <attvalues>
-          <attvalue for="1" value="500.0" />
-        </attvalues>
-      </edge>
-      <edge source="glassshield" target="BeforeNAfterAdoption" id="22107">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="glassshield" target="burgers" id="22108">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="glassshield" target="missouri" id="22109">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="glassshield" target="hotdogs" id="22110">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="salvage" target="burgers" id="30540">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="salvage" target="analytics" id="30541">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="salvage" target="hebrew" id="30542">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="salvage" target="Wildlife" id="30543">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="acey" target="hebrew" id="81097">
-        <attvalues>
-          <attvalue for="1" value="500.0" />
-        </attvalues>
-      </edge>
-      <edge source="acey" target="Yiddish" id="81098">
-        <attvalues>
-          <attvalue for="1" value="500.0" />
-        </attvalues>
-      </edge>
-      <edge source="DonManuel" target="nature" id="45640">
-        <attvalues>
-          <attvalue for="1" value="125.0" />
-        </attvalues>
-      </edge>
-      <edge source="DonManuel" target="RenewableEnergy" id="45641">
-        <attvalues>
-          <attvalue for="1" value="125.0" />
-        </attvalues>
-      </edge>
-      <edge source="DonManuel" target="Shipwrecks" id="45642">
-        <attvalues>
-          <attvalue for="1" value="125.0" />
-        </attvalues>
-      </edge>
-      <edge source="DonManuel" target="Wildlife" id="45643">
-        <attvalues>
-          <attvalue for="1" value="125.0" />
-        </attvalues>
-      </edge>
-      <edge source="DonManuel" target="organic" id="45644">
-        <attvalues>
-          <attvalue for="1" value="125.0" />
-        </attvalues>
-      </edge>
-      <edge source="DonManuel" target="veg" id="45645">
-        <attvalues>
-          <attvalue for="1" value="125.0" />
-        </attvalues>
-      </edge>
-      <edge source="DonManuel" target="paleonews" id="45646">
-        <attvalues>
-          <attvalue for="1" value="125.0" />
-        </attvalues>
-      </edge>
-      <edge source="monsoony" target="nature" id="45648">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="monsoony" target="Shipwrecks" id="45649">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="monsoony" target="paleonews" id="45650">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="drak0bsidian" target="hebrew" id="56838">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="drak0bsidian" target="Ranching" id="56839">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
-        </attvalues>
-      </edge>
-      <edge source="drak0bsidian" target="Yiddish" id="56840">
-        <attvalues>
-          <attvalue for="1" value="250.0" />
+          <attvalue for="2" value="0.25" />
         </attvalues>
       </edge>
       <edge source="YiddishCH" target="hebrew" id="81099">
         <attvalues>
-          <attvalue for="1" value="500.0" />
+          <attvalue for="2" value="0.5" />
         </attvalues>
       </edge>
       <edge source="YiddishCH" target="Yiddish" id="81100">
         <attvalues>
-          <attvalue for="1" value="500.0" />
+          <attvalue for="2" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="monsoony" target="nature" id="45648">
+        <attvalues>
+          <attvalue for="2" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="monsoony" target="Shipwrecks" id="45649">
+        <attvalues>
+          <attvalue for="2" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="monsoony" target="paleonews" id="45650">
+        <attvalues>
+          <attvalue for="2" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="monsoony" target="lifeaquatic" id="45651">
+        <attvalues>
+          <attvalue for="2" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="snowden" target="AdorableBunnies" id="22114">
+        <attvalues>
+          <attvalue for="2" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="RenewableEnergy" target="DonManuel" id="45641">
+        <attvalues>
+          <attvalue for="2" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="lifeaquatic" target="DonManuel" id="45647">
+        <attvalues>
+          <attvalue for="2" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="salvage" target="burgers" id="30540">
+        <attvalues>
+          <attvalue for="2" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="salvage" target="hebrew" id="30542">
+        <attvalues>
+          <attvalue for="2" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="salvage" target="Wildlife" id="30543">
+        <attvalues>
+          <attvalue for="2" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="hebrew" target="drak0bsidian" id="56838">
+        <attvalues>
+          <attvalue for="2" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="hebrew" target="MendyZibulnik" id="81095">
+        <attvalues>
+          <attvalue for="2" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="hebrew" target="acey" id="81097">
+        <attvalues>
+          <attvalue for="2" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="DonManuel" target="nature" id="45640">
+        <attvalues>
+          <attvalue for="2" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="DonManuel" target="Shipwrecks" id="45642">
+        <attvalues>
+          <attvalue for="2" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="DonManuel" target="Wildlife" id="45643">
+        <attvalues>
+          <attvalue for="2" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="DonManuel" target="organic" id="45644">
+        <attvalues>
+          <attvalue for="2" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="DonManuel" target="veg" id="45645">
+        <attvalues>
+          <attvalue for="2" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="DonManuel" target="paleonews" id="45646">
+        <attvalues>
+          <attvalue for="2" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Yiddish" target="drak0bsidian" id="56840">
+        <attvalues>
+          <attvalue for="2" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Yiddish" target="MendyZibulnik" id="81096">
+        <attvalues>
+          <attvalue for="2" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Yiddish" target="acey" id="81098">
+        <attvalues>
+          <attvalue for="2" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="drak0bsidian" target="Judaism" id="56837">
+        <attvalues>
+          <attvalue for="2" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="drak0bsidian" target="Ranching" id="56839">
+        <attvalues>
+          <attvalue for="2" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="burgers" target="AdorableBunnies" id="22112">
+        <attvalues>
+          <attvalue for="2" value="0.25" />
         </attvalues>
       </edge>
     </edges>
