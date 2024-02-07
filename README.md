@@ -57,4 +57,4 @@ The data was scraped in the associated [Jupyter Notebook](code/reddit-mods-db.ip
 
 ## Examples
 
-* [Visualising a cluster of subreddits moderated by a group of users](examples)
+* [Visualising a cluster of subreddits moderated by a group of users](./example)
