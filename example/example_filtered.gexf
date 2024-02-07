@@ -1,0 +1,324 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-02-07">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="n_members" type="long" />
+    </attributes>
+    <nodes>
+      <node id="TheRightCantMeme" label="TheRightCantMeme">
+        <attvalues>
+          <attvalue for="0" value="434766" />
+        </attvalues>
+      </node>
+      <node id="worldnewsvideo" label="worldnewsvideo">
+        <attvalues>
+          <attvalue for="0" value="216705" />
+        </attvalues>
+      </node>
+      <node id="lostgeneration" label="lostgeneration">
+        <attvalues>
+          <attvalue for="0" value="380238" />
+        </attvalues>
+      </node>
+      <node id="The_Leftorium" label="The_Leftorium">
+        <attvalues>
+          <attvalue for="0" value="32637" />
+        </attvalues>
+      </node>
+      <node id="GreenAndEXTREME" label="GreenAndEXTREME">
+        <attvalues>
+          <attvalue for="0" value="9579" />
+        </attvalues>
+      </node>
+      <node id="Enough_Vaush_Spam" label="Enough_Vaush_Spam">
+        <attvalues>
+          <attvalue for="0" value="9844" />
+        </attvalues>
+      </node>
+      <node id="boringdystopia" label="boringdystopia">
+        <attvalues>
+          <attvalue for="0" value="91478" />
+        </attvalues>
+      </node>
+      <node id="Documentaries" label="Documentaries">
+        <attvalues>
+          <attvalue for="0" value="20433429" />
+        </attvalues>
+      </node>
+      <node id="ToiletPaperUSA" label="ToiletPaperUSA">
+        <attvalues>
+          <attvalue for="0" value="449434" />
+        </attvalues>
+      </node>
+      <node id="therewasanattempt" label="therewasanattempt">
+        <attvalues>
+          <attvalue for="0" value="7344865" />
+        </attvalues>
+      </node>
+      <node id="JewsOfConscience" label="JewsOfConscience">
+        <attvalues>
+          <attvalue for="0" value="6331" />
+        </attvalues>
+      </node>
+      <node id="IRLEasterEggs" label="IRLEasterEggs">
+        <attvalues>
+          <attvalue for="0" value="584944" />
+        </attvalues>
+      </node>
+      <node id="GreenAndPleasant" label="GreenAndPleasant">
+        <attvalues>
+          <attvalue for="0" value="179535" />
+        </attvalues>
+      </node>
+      <node id="Thatsactuallyverycool" label="Thatsactuallyverycool">
+        <attvalues>
+          <attvalue for="0" value="204964" />
+        </attvalues>
+      </node>
+      <node id="Unexpected" label="Unexpected">
+        <attvalues>
+          <attvalue for="0" value="10658434" />
+        </attvalues>
+      </node>
+      <node id="OpenAI" label="OpenAI">
+        <attvalues>
+          <attvalue for="0" value="1035849" />
+        </attvalues>
+      </node>
+      <node id="PublicFreakout" label="PublicFreakout">
+        <attvalues>
+          <attvalue for="0" value="4641863" />
+        </attvalues>
+      </node>
+      <node id="Labour" label="Labour">
+        <attvalues>
+          <attvalue for="0" value="26254" />
+        </attvalues>
+      </node>
+      <node id="Israel_Palestine" label="Israel_Palestine">
+        <attvalues>
+          <attvalue for="0" value="8772" />
+        </attvalues>
+      </node>
+      <node id="SocialismIsCapitalism" label="SocialismIsCapitalism">
+        <attvalues>
+          <attvalue for="0" value="42121" />
+        </attvalues>
+      </node>
+      <node id="Hasan_Piker" label="Hasan_Piker">
+        <attvalues>
+          <attvalue for="0" value="132801" />
+        </attvalues>
+      </node>
+      <node id="AbolishTheMonarchy" label="AbolishTheMonarchy">
+        <attvalues>
+          <attvalue for="0" value="56984" />
+        </attvalues>
+      </node>
+      <node id="Palestine" label="Palestine">
+        <attvalues>
+          <attvalue for="0" value="209947" />
+        </attvalues>
+      </node>
+      <node id="internationalpolitics" label="internationalpolitics">
+        <attvalues>
+          <attvalue for="0" value="34920" />
+        </attvalues>
+      </node>
+      <node id="Britain" label="Britain">
+        <attvalues>
+          <attvalue for="0" value="55133" />
+        </attvalues>
+      </node>
+      <node id="LandlordLove" label="LandlordLove">
+        <attvalues>
+          <attvalue for="0" value="82399" />
+        </attvalues>
+      </node>
+      <node id="IsraelCrimes" label="IsraelCrimes">
+        <attvalues>
+          <attvalue for="0" value="29891" />
+        </attvalues>
+      </node>
+      <node id="Panarab" label="Panarab">
+        <attvalues>
+          <attvalue for="0" value="10324" />
+        </attvalues>
+      </node>
+      <node id="AskMiddleEast" label="AskMiddleEast">
+        <attvalues>
+          <attvalue for="0" value="82035" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="TheRightCantMeme" target="GreenAndPleasant" id="96465" label="A_Lifetime_Bitch,Adzm00,BasicallyMilner,ChickenNugget267,Cole530,RoyallyScrewed75,itsHoust,itselectricboi,the_red_guard,tronaldodumpo" weight="10.0" />
+      <edge source="TheRightCantMeme" target="SocialismIsCapitalism" id="96466" label="A_Lifetime_Bitch,KatieTSO,itsHoust,itselectricboi" weight="4.0" />
+      <edge source="TheRightCantMeme" target="Enough_Vaush_Spam" id="96467" label="A_Lifetime_Bitch,BasicallyMilner,ChickenNugget267,Cole530,Guoanbu89,KatieTSO,Oldspice7169,itsHoust,itselectricboi,tronaldodumpo" weight="10.0" />
+      <edge source="TheRightCantMeme" target="Labour" id="96468" label="Adzm00" weight="1.0" />
+      <edge source="TheRightCantMeme" target="lostgeneration" id="96475" label="ChickenNugget267,itselectricboi,theriddleoftheworld" weight="3.0" />
+      <edge source="TheRightCantMeme" target="The_Leftorium" id="96493" label="itselectricboi,theriddleoftheworld" weight="2.0" />
+      <edge source="TheRightCantMeme" target="Palestine" id="96494" label="ChickenNugget267" weight="1.0" />
+      <edge source="TheRightCantMeme" target="LandlordLove" id="96495" label="ChickenNugget267,ChromoTec,Guoanbu89,itselectricboi" weight="4.0" />
+      <edge source="TheRightCantMeme" target="AbolishTheMonarchy" id="96496" label="ChickenNugget267,RoyallyScrewed75,itselectricboi,theriddleoftheworld" weight="4.0" />
+      <edge source="TheRightCantMeme" target="Britain" id="96497" label="ChickenNugget267,Guoanbu89,RoyallyScrewed75,itselectricboi" weight="4.0" />
+      <edge source="TheRightCantMeme" target="GreenAndEXTREME" id="96498" label="ChickenNugget267,Lenins2ndCat" weight="2.0" />
+      <edge source="worldnewsvideo" target="Documentaries" id="6388" label="Kumquat_conniption,PlenitudeOpulence,ohhyouknow,sabbah" weight="4.0" />
+      <edge source="worldnewsvideo" target="Unexpected" id="9329" label="PlenitudeOpulence,ohhyouknow,sabbah" weight="3.0" />
+      <edge source="worldnewsvideo" target="therewasanattempt" id="12506" label="Kumquat_conniption,PlenitudeOpulence,mobile-links,ohhyouknow,sabbah,zensins" weight="6.0" />
+      <edge source="worldnewsvideo" target="PublicFreakout" id="17733" label="Kumquat_conniption,Merari01,PlenitudeOpulence,ohhyouknow,sabbah" weight="5.0" />
+      <edge source="worldnewsvideo" target="OpenAI" id="64061" label="sabbah" weight="1.0" />
+      <edge source="worldnewsvideo" target="IRLEasterEggs" id="86090" label="sabbah" weight="1.0" />
+      <edge source="worldnewsvideo" target="ToiletPaperUSA" id="95154" label="Kumquat_conniption,sabbah" weight="2.0" />
+      <edge source="worldnewsvideo" target="Thatsactuallyverycool" id="120501" label="CantStopPoppin,Kumquat_conniption,PlenitudeOpulence,sabbah" weight="4.0" />
+      <edge source="worldnewsvideo" target="boringdystopia" id="120521" label="CantStopPoppin,Kumquat_conniption,sabbah" weight="3.0" />
+      <edge source="worldnewsvideo" target="Palestine" id="120523" label="sabbah" weight="1.0" />
+      <edge source="worldnewsvideo" target="Hasan_Piker" id="120524" label="Kumquat_conniption,PlenitudeOpulence,ohhyouknow,sabbah" weight="4.0" />
+      <edge source="worldnewsvideo" target="IsraelCrimes" id="120528" label="Kumquat_conniption,sabbah" weight="2.0" />
+      <edge source="worldnewsvideo" target="AskMiddleEast" id="120557" label="PlenitudeOpulence,hairy_bipples,sabbah" weight="3.0" />
+      <edge source="worldnewsvideo" target="Panarab" id="120561" label="sabbah" weight="1.0" />
+      <edge source="lostgeneration" target="GreenAndPleasant" id="101701" label="ChickenNugget267,itselectricboi" weight="2.0" />
+      <edge source="lostgeneration" target="SocialismIsCapitalism" id="101702" label="itselectricboi" weight="1.0" />
+      <edge source="lostgeneration" target="Enough_Vaush_Spam" id="101703" label="ChickenNugget267,itselectricboi" weight="2.0" />
+      <edge source="lostgeneration" target="Palestine" id="101770" label="ChickenNugget267" weight="1.0" />
+      <edge source="lostgeneration" target="LandlordLove" id="101771" label="ChickenNugget267,itselectricboi" weight="2.0" />
+      <edge source="lostgeneration" target="AbolishTheMonarchy" id="101772" label="ChickenNugget267,itselectricboi,theriddleoftheworld" weight="3.0" />
+      <edge source="lostgeneration" target="Britain" id="101773" label="ChickenNugget267,itselectricboi" weight="2.0" />
+      <edge source="lostgeneration" target="GreenAndEXTREME" id="101774" label="ChickenNugget267" weight="1.0" />
+      <edge source="lostgeneration" target="The_Leftorium" id="101776" label="itselectricboi,theriddleoftheworld" weight="2.0" />
+      <edge source="The_Leftorium" target="GreenAndPleasant" id="128726" label="RIPNightman,itselectricboi" weight="2.0" />
+      <edge source="The_Leftorium" target="LandlordLove" id="151823" label="RIPNightman,itselectricboi" weight="2.0" />
+      <edge source="The_Leftorium" target="AbolishTheMonarchy" id="161514" label="itselectricboi,theriddleoftheworld" weight="2.0" />
+      <edge source="The_Leftorium" target="Britain" id="162411" label="itselectricboi" weight="1.0" />
+      <edge source="The_Leftorium" target="SocialismIsCapitalism" id="170097" label="itselectricboi" weight="1.0" />
+      <edge source="The_Leftorium" target="Enough_Vaush_Spam" id="178939" label="RIPNightman,itselectricboi" weight="2.0" />
+      <edge source="GreenAndEXTREME" target="Palestine" id="122386" label="ChickenNugget267,DarkQueen1312" weight="2.0" />
+      <edge source="GreenAndEXTREME" target="GreenAndPleasant" id="128733" label="ChickenNugget267,DarkQueen1312,GenerallyIroh,TheKomsomol" weight="4.0" />
+      <edge source="GreenAndEXTREME" target="LandlordLove" id="151829" label="ChickenNugget267,Tommy_Mac32" weight="2.0" />
+      <edge source="GreenAndEXTREME" target="AbolishTheMonarchy" id="161512" label="ChickenNugget267,Tommy_Mac32" weight="2.0" />
+      <edge source="GreenAndEXTREME" target="Britain" id="162409" label="ChickenNugget267,TheKomsomol" weight="2.0" />
+      <edge source="GreenAndEXTREME" target="SocialismIsCapitalism" id="170099" label="GenerallyIroh" weight="1.0" />
+      <edge source="GreenAndEXTREME" target="Enough_Vaush_Spam" id="212734" label="ChickenNugget267,DarkQueerAnCom" weight="2.0" />
+      <edge source="Enough_Vaush_Spam" target="Palestine" id="122379" label="ChickenNugget267" weight="1.0" />
+      <edge source="Enough_Vaush_Spam" target="GreenAndPleasant" id="128730" label="A_Lifetime_Bitch,BasicallyMilner,ChickenNugget267,Cole530,RIPNightman,itsHoust,itselectricboi,tronaldodumpo" weight="8.0" />
+      <edge source="Enough_Vaush_Spam" target="LandlordLove" id="151820" label="ChickenNugget267,Guoanbu89,RIPNightman,itselectricboi" weight="4.0" />
+      <edge source="Enough_Vaush_Spam" target="AbolishTheMonarchy" id="161511" label="ChickenNugget267,itselectricboi" weight="2.0" />
+      <edge source="Enough_Vaush_Spam" target="Britain" id="162408" label="ChickenNugget267,Guoanbu89,itselectricboi" weight="3.0" />
+      <edge source="Enough_Vaush_Spam" target="SocialismIsCapitalism" id="170098" label="A_Lifetime_Bitch,KatieTSO,itsHoust,itselectricboi" weight="4.0" />
+      <edge source="boringdystopia" target="Documentaries" id="6392" label="Kumquat_conniption,Miss_Skooter,_makoccino_,sabbah" weight="4.0" />
+      <edge source="boringdystopia" target="Unexpected" id="9421" label="sabbah" weight="1.0" />
+      <edge source="boringdystopia" target="therewasanattempt" id="12498" label="Kumquat_conniption,sabbah" weight="2.0" />
+      <edge source="boringdystopia" target="PublicFreakout" id="17735" label="Kumquat_conniption,sabbah" weight="2.0" />
+      <edge source="boringdystopia" target="OpenAI" id="64064" label="sabbah" weight="1.0" />
+      <edge source="boringdystopia" target="IRLEasterEggs" id="86093" label="sabbah" weight="1.0" />
+      <edge source="boringdystopia" target="ToiletPaperUSA" id="95155" label="Kumquat_conniption,sabbah" weight="2.0" />
+      <edge source="boringdystopia" target="Palestine" id="122380" label="EastBaySunshine,Miss_Skooter,_makoccino_,sabbah" weight="4.0" />
+      <edge source="boringdystopia" target="Thatsactuallyverycool" id="123417" label="CantStopPoppin,Kumquat_conniption,sabbah" weight="3.0" />
+      <edge source="boringdystopia" target="Hasan_Piker" id="138373" label="Kumquat_conniption,sabbah" weight="2.0" />
+      <edge source="boringdystopia" target="IsraelCrimes" id="148618" label="EastBaySunshine,Kumquat_conniption,Miss_Skooter,_makoccino_,sabbah" weight="5.0" />
+      <edge source="boringdystopia" target="AskMiddleEast" id="148619" label="sabbah" weight="1.0" />
+      <edge source="boringdystopia" target="Panarab" id="148620" label="sabbah" weight="1.0" />
+      <edge source="Documentaries" target="therewasanattempt" id="6385" label="Kumquat_conniption,PlenitudeOpulence,ohhyouknow,sabbah" weight="4.0" />
+      <edge source="Documentaries" target="PublicFreakout" id="6386" label="Kumquat_conniption,PlenitudeOpulence,ohhyouknow,sabbah" weight="4.0" />
+      <edge source="Documentaries" target="ToiletPaperUSA" id="6387" label="Kumquat_conniption,sabbah" weight="2.0" />
+      <edge source="Documentaries" target="Thatsactuallyverycool" id="6389" label="Kumquat_conniption,PlenitudeOpulence,sabbah" weight="3.0" />
+      <edge source="Documentaries" target="Hasan_Piker" id="6391" label="Kumquat_conniption,PlenitudeOpulence,ohhyouknow,sabbah" weight="4.0" />
+      <edge source="Documentaries" target="IsraelCrimes" id="6394" label="Kumquat_conniption,Miss_Skooter,_makoccino_,sabbah" weight="4.0" />
+      <edge source="Documentaries" target="Palestine" id="6397" label="Miss_Skooter,_makoccino_,sabbah" weight="3.0" />
+      <edge source="Documentaries" target="Unexpected" id="6399" label="PlenitudeOpulence,ohhyouknow,sabbah" weight="3.0" />
+      <edge source="Documentaries" target="OpenAI" id="6461" label="sabbah" weight="1.0" />
+      <edge source="Documentaries" target="IRLEasterEggs" id="6462" label="sabbah" weight="1.0" />
+      <edge source="Documentaries" target="Panarab" id="6463" label="sabbah" weight="1.0" />
+      <edge source="Documentaries" target="AskMiddleEast" id="6468" label="PlenitudeOpulence,sabbah" weight="2.0" />
+      <edge source="ToiletPaperUSA" target="Unexpected" id="9266" label="sabbah" weight="1.0" />
+      <edge source="ToiletPaperUSA" target="therewasanattempt" id="12493" label="Kumquat_conniption,sabbah" weight="2.0" />
+      <edge source="ToiletPaperUSA" target="PublicFreakout" id="17732" label="Kumquat_conniption,sabbah" weight="2.0" />
+      <edge source="ToiletPaperUSA" target="OpenAI" id="64060" label="sabbah" weight="1.0" />
+      <edge source="ToiletPaperUSA" target="IRLEasterEggs" id="86089" label="sabbah" weight="1.0" />
+      <edge source="ToiletPaperUSA" target="Thatsactuallyverycool" id="95133" label="Kumquat_conniption,sabbah" weight="2.0" />
+      <edge source="ToiletPaperUSA" target="Palestine" id="95164" label="sabbah" weight="1.0" />
+      <edge source="ToiletPaperUSA" target="Hasan_Piker" id="95165" label="Kumquat_conniption,sabbah" weight="2.0" />
+      <edge source="ToiletPaperUSA" target="IsraelCrimes" id="95167" label="Kumquat_conniption,sabbah" weight="2.0" />
+      <edge source="ToiletPaperUSA" target="AskMiddleEast" id="95172" label="sabbah" weight="1.0" />
+      <edge source="ToiletPaperUSA" target="Panarab" id="95173" label="sabbah" weight="1.0" />
+      <edge source="therewasanattempt" target="Unexpected" id="9327" label="PlenitudeOpulence,ohhyouknow,sabbah" weight="3.0" />
+      <edge source="therewasanattempt" target="Thatsactuallyverycool" id="12490" label="Kumquat_conniption,PlenitudeOpulence,sabbah" weight="3.0" />
+      <edge source="therewasanattempt" target="PublicFreakout" id="12499" label="Kumquat_conniption,M-A-S-C,PlenitudeOpulence,ohhyouknow,sabbah" weight="5.0" />
+      <edge source="therewasanattempt" target="Palestine" id="12500" label="sabbah" weight="1.0" />
+      <edge source="therewasanattempt" target="OpenAI" id="12501" label="sabbah" weight="1.0" />
+      <edge source="therewasanattempt" target="Hasan_Piker" id="12502" label="Kumquat_conniption,PlenitudeOpulence,ohhyouknow,sabbah" weight="4.0" />
+      <edge source="therewasanattempt" target="IsraelCrimes" id="12504" label="Kumquat_conniption,sabbah" weight="2.0" />
+      <edge source="therewasanattempt" target="IRLEasterEggs" id="12509" label="sabbah" weight="1.0" />
+      <edge source="therewasanattempt" target="AskMiddleEast" id="12510" label="PlenitudeOpulence,sabbah" weight="2.0" />
+      <edge source="therewasanattempt" target="Panarab" id="12513" label="sabbah" weight="1.0" />
+      <edge source="JewsOfConscience" target="Palestine" id="122390" label="conscience_journey" weight="1.0" />
+      <edge source="JewsOfConscience" target="AskMiddleEast" id="151909" label="izpo" weight="1.0" />
+      <edge source="JewsOfConscience" target="internationalpolitics" id="176891" label="s_y_s_t_e_m_i_c_" weight="1.0" />
+      <edge source="JewsOfConscience" target="Israel_Palestine" id="215140" label="izpo" weight="1.0" />
+      <edge source="IRLEasterEggs" target="Unexpected" id="9454" label="Pedantichrist,sabbah" weight="2.0" />
+      <edge source="IRLEasterEggs" target="PublicFreakout" id="17887" label="Pedantichrist,sabbah" weight="2.0" />
+      <edge source="IRLEasterEggs" target="OpenAI" id="64072" label="sabbah" weight="1.0" />
+      <edge source="IRLEasterEggs" target="Hasan_Piker" id="86081" label="sabbah" weight="1.0" />
+      <edge source="IRLEasterEggs" target="Palestine" id="86091" label="sabbah" weight="1.0" />
+      <edge source="IRLEasterEggs" target="Thatsactuallyverycool" id="86092" label="sabbah" weight="1.0" />
+      <edge source="IRLEasterEggs" target="IsraelCrimes" id="86094" label="sabbah" weight="1.0" />
+      <edge source="IRLEasterEggs" target="Panarab" id="86095" label="sabbah" weight="1.0" />
+      <edge source="IRLEasterEggs" target="AskMiddleEast" id="86096" label="sabbah" weight="1.0" />
+      <edge source="GreenAndPleasant" target="Palestine" id="122378" label="ChickenNugget267,DarkQueen1312" weight="2.0" />
+      <edge source="GreenAndPleasant" target="SocialismIsCapitalism" id="128721" label="A_Lifetime_Bitch,GenerallyIroh,itsHoust,itselectricboi" weight="4.0" />
+      <edge source="GreenAndPleasant" target="Labour" id="128722" label="Adzm00,spidermite" weight="2.0" />
+      <edge source="GreenAndPleasant" target="LandlordLove" id="128723" label="ChickenNugget267,RIPNightman,itselectricboi" weight="3.0" />
+      <edge source="GreenAndPleasant" target="AbolishTheMonarchy" id="128731" label="ChickenNugget267,RoyallyScrewed75,itselectricboi" weight="3.0" />
+      <edge source="GreenAndPleasant" target="Britain" id="128732" label="ChickenNugget267,RoyallyScrewed75,TheKomsomol,itselectricboi" weight="4.0" />
+      <edge source="Thatsactuallyverycool" target="Unexpected" id="9246" label="PlenitudeOpulence,sabbah" weight="2.0" />
+      <edge source="Thatsactuallyverycool" target="PublicFreakout" id="17734" label="Kumquat_conniption,PlenitudeOpulence,sabbah" weight="3.0" />
+      <edge source="Thatsactuallyverycool" target="OpenAI" id="64063" label="sabbah" weight="1.0" />
+      <edge source="Thatsactuallyverycool" target="Palestine" id="122382" label="sabbah" weight="1.0" />
+      <edge source="Thatsactuallyverycool" target="Hasan_Piker" id="123421" label="Kumquat_conniption,PlenitudeOpulence,sabbah" weight="3.0" />
+      <edge source="Thatsactuallyverycool" target="IsraelCrimes" id="123422" label="Kumquat_conniption,sabbah" weight="2.0" />
+      <edge source="Thatsactuallyverycool" target="AskMiddleEast" id="123423" label="PlenitudeOpulence,sabbah" weight="2.0" />
+      <edge source="Thatsactuallyverycool" target="Panarab" id="123425" label="sabbah" weight="1.0" />
+      <edge source="Unexpected" target="PublicFreakout" id="9286" label="ModAdministrator,Pedantichrist,PlenitudeOpulence,ohhyouknow,sabbah,travjhawk" weight="6.0" />
+      <edge source="Unexpected" target="Palestine" id="9288" label="sabbah" weight="1.0" />
+      <edge source="Unexpected" target="OpenAI" id="9289" label="sabbah" weight="1.0" />
+      <edge source="Unexpected" target="Hasan_Piker" id="9291" label="PlenitudeOpulence,ohhyouknow,sabbah" weight="3.0" />
+      <edge source="Unexpected" target="IsraelCrimes" id="9298" label="sabbah" weight="1.0" />
+      <edge source="Unexpected" target="AskMiddleEast" id="9457" label="PlenitudeOpulence,sabbah" weight="2.0" />
+      <edge source="Unexpected" target="Panarab" id="9477" label="sabbah" weight="1.0" />
+      <edge source="OpenAI" target="PublicFreakout" id="17859" label="sabbah" weight="1.0" />
+      <edge source="OpenAI" target="Palestine" id="64062" label="sabbah" weight="1.0" />
+      <edge source="OpenAI" target="Panarab" id="64065" label="sabbah" weight="1.0" />
+      <edge source="OpenAI" target="Hasan_Piker" id="64068" label="sabbah" weight="1.0" />
+      <edge source="OpenAI" target="IsraelCrimes" id="64071" label="sabbah" weight="1.0" />
+      <edge source="OpenAI" target="AskMiddleEast" id="64073" label="sabbah" weight="1.0" />
+      <edge source="PublicFreakout" target="Palestine" id="17858" label="sabbah" weight="1.0" />
+      <edge source="PublicFreakout" target="Hasan_Piker" id="17860" label="Kumquat_conniption,PlenitudeOpulence,ohhyouknow,sabbah" weight="4.0" />
+      <edge source="PublicFreakout" target="IsraelCrimes" id="17866" label="Kumquat_conniption,sabbah" weight="2.0" />
+      <edge source="PublicFreakout" target="AskMiddleEast" id="17888" label="PlenitudeOpulence,sabbah" weight="2.0" />
+      <edge source="PublicFreakout" target="Panarab" id="17890" label="sabbah" weight="1.0" />
+      <edge source="Israel_Palestine" target="AskMiddleEast" id="151908" label="izpo" weight="1.0" />
+      <edge source="SocialismIsCapitalism" target="LandlordLove" id="151826" label="itselectricboi" weight="1.0" />
+      <edge source="SocialismIsCapitalism" target="AbolishTheMonarchy" id="161513" label="itselectricboi" weight="1.0" />
+      <edge source="SocialismIsCapitalism" target="Britain" id="162410" label="itselectricboi" weight="1.0" />
+      <edge source="Hasan_Piker" target="Palestine" id="122387" label="sabbah" weight="1.0" />
+      <edge source="Hasan_Piker" target="IsraelCrimes" id="138375" label="Kumquat_conniption,sabbah" weight="2.0" />
+      <edge source="Hasan_Piker" target="Panarab" id="138376" label="sabbah" weight="1.0" />
+      <edge source="Hasan_Piker" target="AskMiddleEast" id="138378" label="PlenitudeOpulence,sabbah" weight="2.0" />
+      <edge source="AbolishTheMonarchy" target="Palestine" id="122384" label="ChickenNugget267" weight="1.0" />
+      <edge source="AbolishTheMonarchy" target="LandlordLove" id="151827" label="ChickenNugget267,Tommy_Mac32,itselectricboi" weight="3.0" />
+      <edge source="AbolishTheMonarchy" target="Britain" id="161510" label="ChickenNugget267,HMElizabethII,Nikhilvoid,RoyallyScrewed75,itselectricboi" weight="5.0" />
+      <edge source="Palestine" target="Panarab" id="122381" label="hunegypt,sabbah" weight="2.0" />
+      <edge source="Palestine" target="LandlordLove" id="122383" label="ChickenNugget267" weight="1.0" />
+      <edge source="Palestine" target="Britain" id="122385" label="ChickenNugget267" weight="1.0" />
+      <edge source="Palestine" target="IsraelCrimes" id="122388" label="EastBaySunshine,MartyrMoon,Miss_Skooter,PalRep,_makoccino_,hunegypt,sabbah" weight="7.0" />
+      <edge source="Palestine" target="AskMiddleEast" id="122389" label="hunegypt,sabbah" weight="2.0" />
+      <edge source="Britain" target="LandlordLove" id="151828" label="ChickenNugget267,Guoanbu89,itselectricboi" weight="3.0" />
+      <edge source="IsraelCrimes" target="AskMiddleEast" id="151906" label="hunegypt,sabbah" weight="2.0" />
+      <edge source="IsraelCrimes" target="Panarab" id="181689" label="hunegypt,sabbah" weight="2.0" />
+      <edge source="Panarab" target="AskMiddleEast" id="151907" label="hunegypt,sabbah" weight="2.0" />
+    </edges>
+  </graph>
+</gexf>
