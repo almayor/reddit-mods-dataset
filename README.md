@@ -16,6 +16,9 @@ The data is available both as a table and a bipartite graph.
 1. `graph.gexf`
 
 	A bipartite graph, where nodes in the first group (having attribute `bipartite=0`) are moderators and nodes in the second group (having attribute `bipartite=1`) are subreddits. A moderator-node is connected with a subreddit-node if that moderator moderates this subreddit.
+	
+	Additional tags:
+	* `size` on subreddit-nodes, indicating the number of subreddit's members
 	  
 	<hr>
 	
@@ -23,7 +26,7 @@ The data is available both as a table and a bipartite graph.
 
 1. `subreddits.csv`
 
-	Contains 25K subreddits from [Reddit's Top](www.reddit.com/best/communities/1/), combined with the [list](http://www.reddit.com/subreddits/) of Reddit's most popular communities. The two lists are not identical, as described in the Jupyter notebook. The headers are:
+	Contains 25K subreddits from [Reddit's Top](www.reddit.com/best/communities/1/), combined with the [list](http://www.reddit.com/subreddits/) of Reddit's most popular communities. The two lists are not identical, as described in the [Jupyter notebook](code/reddit-mods-db.ipynb). The headers are:
 
 	* `name`: Name of subreddit
 	* `n_members`: Number of members
@@ -36,10 +39,7 @@ The data is available both as a table and a bipartite graph.
 	
 	* `subreddit`: Name of subreddit
 	* `moderator`: Username of moderator
-	
-	I used a very simple procedure to filter out auto-moderators: (1) a short list of known bots (e.g. `u/AutoModerator`), (2) username starts or ends with `bot`.
-	
-	*Important:* An additional procedure to identify and remove bots might be necessary. For example, one could remove all accounts that moderate >100 communities.
+	* 
 	<hr>
 
 3. `bots.csv`
@@ -52,3 +52,7 @@ The data is available both as a table and a bipartite graph.
 ## Examples
 
 * [Visualising a cluster of subreddits moderated by a group of users](./example)
+
+## Notes and warnings
+
+I used a very simple procedure to filter out auto-moderators: (1) a short list of known bots (e.g. `u/AutoModerator`), (2) username starts or ends with `bot`. An additional procedure to identify and remove bots might be necessary. For an example, see [this notebook](example/example.ipynb).
