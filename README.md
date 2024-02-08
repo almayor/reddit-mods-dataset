@@ -5,7 +5,7 @@ _RedditMods_ is a dataset that lists moderators of 25'834 largest and most popul
 
 ## Data Collection
 
-The data was scraped in the associated [Jupyter Notebook](code/reddit-mods-db.ipynb). All data was publically available and collected on 06 Feb 2024.
+The data was scraped in the associated [Jupyter Notebook](code/reddit-mods-ds.ipynb). The data was publically available and collected on 06 Feb 2024. All usernames were anonymised by hashing with SHA256.
 
 ## Description of Files
 
@@ -17,7 +17,7 @@ The data is available both as a table and a bipartite graph.
 
 	A bipartite graph, where nodes in the first group (having attribute `bipartite=0`) are moderators and nodes in the second group (having attribute `bipartite=1`) are subreddits. A moderator-node is connected with a subreddit-node if that moderator moderates this subreddit.
 	
-	Additional tags:
+	Tags:
 	* `size` on subreddit-nodes, indicating the number of subreddit's members
 	  
 	<hr>
@@ -26,7 +26,7 @@ The data is available both as a table and a bipartite graph.
 
 1. `subreddits.csv`
 
-	Contains 25K subreddits from [Reddit's Top](www.reddit.com/best/communities/1/), combined with the [list](http://www.reddit.com/subreddits/) of Reddit's most popular communities. The two lists are not identical, as described in the [Jupyter notebook](code/reddit-mods-db.ipynb). The headers are:
+	Contains 25K subreddits from [Reddit's Top](www.reddit.com/best/communities/1/), combined with the [list](http://www.reddit.com/subreddits/) of Reddit's most popular communities. The two lists are not identical, as described in the [Jupyter notebook](code/reddit-mods-ds.ipynb). The headers are:
 
 	* `name`: Name of subreddit
 	* `n_members`: Number of members
@@ -38,7 +38,7 @@ The data is available both as a table and a bipartite graph.
 	Each row describes a subreddit-moderator pair:
 	
 	* `subreddit`: Name of subreddit
-	* `moderator`: Username of moderator
+	* `moderator`: Username of moderator (anonymised by hashing)
 	
 	<hr>
 
