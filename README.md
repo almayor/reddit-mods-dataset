@@ -51,7 +51,7 @@ The data is available both as a table and a bipartite graph.
 
 ## Examples
 
-* [Visualising a cluster of subreddits moderated by a group of users](./example)
+* [Visualising a cluster of subreddits moderated by a group of users](./example/example.ipynb)
 
 ## Notes and warnings
 
