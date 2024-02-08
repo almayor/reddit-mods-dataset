@@ -1,5 +1,5 @@
 # RedditMods: Moderators of top-25'000 subreddits
-<a href="https://www.kaggle.com/datasets/gingerbadger/redditmods-moderators-of-top-25000-subreddits" rel="Kaggle dataset">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a> ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+<a href="https://www.kaggle.com/datasets/gingerbadger/redditmods-moderators-of-top-25k-subreddits/data" rel="Kaggle dataset">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a> ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 
 _RedditMods_ is a dataset that lists moderators of 25'834 largest and most popular communities on Reddit. The dataset is ideal for studying subreddits as a graph, where edges are moderators and nodes are subreddits.
 
