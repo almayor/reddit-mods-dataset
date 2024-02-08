@@ -9,129 +9,9 @@
       <attribute id="1" title="bipartite" type="long" />
     </attributes>
     <nodes>
-      <node id="worldnewsvideo" label="worldnewsvideo">
-        <attvalues>
-          <attvalue for="0" value="216705" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="GreenAndPleasant" label="GreenAndPleasant">
-        <attvalues>
-          <attvalue for="0" value="179535" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="JewsOfConscience" label="JewsOfConscience">
-        <attvalues>
-          <attvalue for="0" value="6331" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="bodymods" label="bodymods">
-        <attvalues>
-          <attvalue for="0" value="115906" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Hasan_Piker" label="Hasan_Piker">
-        <attvalues>
-          <attvalue for="0" value="132801" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="lostgeneration" label="lostgeneration">
-        <attvalues>
-          <attvalue for="0" value="380238" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="iamatotalpieceofshit" label="iamatotalpieceofshit">
-        <attvalues>
-          <attvalue for="0" value="2087068" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="OpenAI" label="OpenAI">
-        <attvalues>
-          <attvalue for="0" value="1035849" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
       <node id="Britain" label="Britain">
         <attvalues>
           <attvalue for="0" value="55133" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="PublicFreakout" label="PublicFreakout">
-        <attvalues>
-          <attvalue for="0" value="4641863" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="AbolishTheMonarchy" label="AbolishTheMonarchy">
-        <attvalues>
-          <attvalue for="0" value="56984" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="AskMiddleEast" label="AskMiddleEast">
-        <attvalues>
-          <attvalue for="0" value="82035" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="boringdystopia" label="boringdystopia">
-        <attvalues>
-          <attvalue for="0" value="91478" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Palestine" label="Palestine">
-        <attvalues>
-          <attvalue for="0" value="209947" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="GreenAndEXTREME" label="GreenAndEXTREME">
-        <attvalues>
-          <attvalue for="0" value="9579" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Panarab" label="Panarab">
-        <attvalues>
-          <attvalue for="0" value="10324" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="ContagiousLaughter" label="ContagiousLaughter">
-        <attvalues>
-          <attvalue for="0" value="9154196" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="IRLEasterEggs" label="IRLEasterEggs">
-        <attvalues>
-          <attvalue for="0" value="584944" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="CrazyFuckingVideos" label="CrazyFuckingVideos">
-        <attvalues>
-          <attvalue for="0" value="2025856" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Documentaries" label="Documentaries">
-        <attvalues>
-          <attvalue for="0" value="20433429" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Thatsactuallyverycool" label="Thatsactuallyverycool">
-        <attvalues>
-          <attvalue for="0" value="204964" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
@@ -141,33 +21,15 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Unexpected" label="Unexpected">
+      <node id="AskMiddleEast" label="AskMiddleEast">
         <attvalues>
-          <attvalue for="0" value="10658434" />
+          <attvalue for="0" value="82035" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="JustGuysBeingDudes" label="JustGuysBeingDudes">
+      <node id="JewsOfConscience" label="JewsOfConscience">
         <attvalues>
-          <attvalue for="0" value="938551" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="ToiletPaperUSA" label="ToiletPaperUSA">
-        <attvalues>
-          <attvalue for="0" value="449434" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Enough_Vaush_Spam" label="Enough_Vaush_Spam">
-        <attvalues>
-          <attvalue for="0" value="9844" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="NonPoliticalTwitter" label="NonPoliticalTwitter">
-        <attvalues>
-          <attvalue for="0" value="379513" />
+          <attvalue for="0" value="6331" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
@@ -177,9 +39,141 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
+      <node id="Thatsactuallyverycool" label="Thatsactuallyverycool">
+        <attvalues>
+          <attvalue for="0" value="204964" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="OpenAI" label="OpenAI">
+        <attvalues>
+          <attvalue for="0" value="1035849" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Hasan_Piker" label="Hasan_Piker">
+        <attvalues>
+          <attvalue for="0" value="132801" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="iamatotalpieceofshit" label="iamatotalpieceofshit">
+        <attvalues>
+          <attvalue for="0" value="2087068" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="NonPoliticalTwitter" label="NonPoliticalTwitter">
+        <attvalues>
+          <attvalue for="0" value="379513" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="JustGuysBeingDudes" label="JustGuysBeingDudes">
+        <attvalues>
+          <attvalue for="0" value="938551" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="bodymods" label="bodymods">
+        <attvalues>
+          <attvalue for="0" value="115906" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ContagiousLaughter" label="ContagiousLaughter">
+        <attvalues>
+          <attvalue for="0" value="9154196" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="GreenAndPleasant" label="GreenAndPleasant">
+        <attvalues>
+          <attvalue for="0" value="179535" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="boringdystopia" label="boringdystopia">
+        <attvalues>
+          <attvalue for="0" value="91478" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Documentaries" label="Documentaries">
+        <attvalues>
+          <attvalue for="0" value="20433429" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AbolishTheMonarchy" label="AbolishTheMonarchy">
+        <attvalues>
+          <attvalue for="0" value="56984" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="lostgeneration" label="lostgeneration">
+        <attvalues>
+          <attvalue for="0" value="380238" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Unexpected" label="Unexpected">
+        <attvalues>
+          <attvalue for="0" value="10658434" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Panarab" label="Panarab">
+        <attvalues>
+          <attvalue for="0" value="10324" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ToiletPaperUSA" label="ToiletPaperUSA">
+        <attvalues>
+          <attvalue for="0" value="449434" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
       <node id="therewasanattempt" label="therewasanattempt">
         <attvalues>
           <attvalue for="0" value="7344865" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="CrazyFuckingVideos" label="CrazyFuckingVideos">
+        <attvalues>
+          <attvalue for="0" value="2025856" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IRLEasterEggs" label="IRLEasterEggs">
+        <attvalues>
+          <attvalue for="0" value="584944" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Palestine" label="Palestine">
+        <attvalues>
+          <attvalue for="0" value="209947" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Enough_Vaush_Spam" label="Enough_Vaush_Spam">
+        <attvalues>
+          <attvalue for="0" value="9844" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PublicFreakout" label="PublicFreakout">
+        <attvalues>
+          <attvalue for="0" value="4641863" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="GreenAndEXTREME" label="GreenAndEXTREME">
+        <attvalues>
+          <attvalue for="0" value="9579" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
@@ -189,187 +183,193 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
+      <node id="worldnewsvideo" label="worldnewsvideo">
+        <attvalues>
+          <attvalue for="0" value="216705" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
     </nodes>
     <edges>
-      <edge source="worldnewsvideo" target="ToiletPaperUSA" id="0" weight="2" />
-      <edge source="worldnewsvideo" target="Hasan_Piker" id="1" weight="4" />
-      <edge source="worldnewsvideo" target="iamatotalpieceofshit" id="2" weight="2" />
-      <edge source="worldnewsvideo" target="Thatsactuallyverycool" id="3" weight="4" />
-      <edge source="worldnewsvideo" target="Documentaries" id="4" weight="4" />
-      <edge source="worldnewsvideo" target="OpenAI" id="5" weight="1" />
-      <edge source="worldnewsvideo" target="PublicFreakout" id="6" weight="4" />
-      <edge source="worldnewsvideo" target="AskMiddleEast" id="7" weight="3" />
-      <edge source="worldnewsvideo" target="boringdystopia" id="8" weight="3" />
-      <edge source="worldnewsvideo" target="Unexpected" id="9" weight="3" />
-      <edge source="worldnewsvideo" target="Palestine" id="10" weight="1" />
-      <edge source="worldnewsvideo" target="Panarab" id="11" weight="1" />
-      <edge source="worldnewsvideo" target="ContagiousLaughter" id="12" weight="1" />
-      <edge source="worldnewsvideo" target="IRLEasterEggs" id="13" weight="1" />
-      <edge source="worldnewsvideo" target="CrazyFuckingVideos" id="14" weight="1" />
-      <edge source="worldnewsvideo" target="therewasanattempt" id="15" weight="6" />
-      <edge source="worldnewsvideo" target="IsraelCrimes" id="16" weight="2" />
-      <edge source="GreenAndPleasant" target="TheRightCantMeme" id="17" weight="10" />
-      <edge source="GreenAndPleasant" target="Palestine" id="18" weight="2" />
-      <edge source="GreenAndPleasant" target="GreenAndEXTREME" id="19" weight="4" />
-      <edge source="GreenAndPleasant" target="CrazyFuckingVideos" id="20" weight="1" />
-      <edge source="GreenAndPleasant" target="lostgeneration" id="21" weight="2" />
-      <edge source="GreenAndPleasant" target="Britain" id="22" weight="4" />
-      <edge source="GreenAndPleasant" target="Enough_Vaush_Spam" id="23" weight="8" />
-      <edge source="GreenAndPleasant" target="AbolishTheMonarchy" id="24" weight="3" />
-      <edge source="GreenAndPleasant" target="NonPoliticalTwitter" id="25" weight="1" />
-      <edge source="GreenAndPleasant" target="LandlordLove" id="26" weight="3" />
-      <edge source="JewsOfConscience" target="iamatotalpieceofshit" id="27" weight="1" />
-      <edge source="JewsOfConscience" target="Palestine" id="28" weight="1" />
-      <edge source="JewsOfConscience" target="AskMiddleEast" id="29" weight="1" />
-      <edge source="bodymods" target="JustGuysBeingDudes" id="30" weight="4" />
-      <edge source="bodymods" target="PublicFreakout" id="31" weight="1" />
-      <edge source="Hasan_Piker" target="iamatotalpieceofshit" id="32" weight="2" />
-      <edge source="Hasan_Piker" target="Documentaries" id="33" weight="4" />
-      <edge source="Hasan_Piker" target="Thatsactuallyverycool" id="34" weight="3" />
-      <edge source="Hasan_Piker" target="OpenAI" id="35" weight="1" />
-      <edge source="Hasan_Piker" target="PublicFreakout" id="36" weight="4" />
-      <edge source="Hasan_Piker" target="AskMiddleEast" id="37" weight="2" />
-      <edge source="Hasan_Piker" target="boringdystopia" id="38" weight="2" />
-      <edge source="Hasan_Piker" target="Unexpected" id="39" weight="3" />
-      <edge source="Hasan_Piker" target="Palestine" id="40" weight="1" />
-      <edge source="Hasan_Piker" target="Panarab" id="41" weight="1" />
-      <edge source="Hasan_Piker" target="ContagiousLaughter" id="42" weight="1" />
-      <edge source="Hasan_Piker" target="IRLEasterEggs" id="43" weight="1" />
-      <edge source="Hasan_Piker" target="ToiletPaperUSA" id="44" weight="2" />
-      <edge source="Hasan_Piker" target="CrazyFuckingVideos" id="45" weight="1" />
-      <edge source="Hasan_Piker" target="therewasanattempt" id="46" weight="4" />
-      <edge source="Hasan_Piker" target="IsraelCrimes" id="47" weight="2" />
-      <edge source="lostgeneration" target="TheRightCantMeme" id="48" weight="3" />
-      <edge source="lostgeneration" target="Palestine" id="49" weight="1" />
-      <edge source="lostgeneration" target="GreenAndEXTREME" id="50" weight="1" />
-      <edge source="lostgeneration" target="Britain" id="51" weight="2" />
-      <edge source="lostgeneration" target="AbolishTheMonarchy" id="52" weight="3" />
-      <edge source="lostgeneration" target="Enough_Vaush_Spam" id="53" weight="2" />
-      <edge source="lostgeneration" target="LandlordLove" id="54" weight="2" />
-      <edge source="iamatotalpieceofshit" target="therewasanattempt" id="55" weight="2" />
-      <edge source="iamatotalpieceofshit" target="Documentaries" id="56" weight="2" />
-      <edge source="iamatotalpieceofshit" target="Thatsactuallyverycool" id="57" weight="1" />
-      <edge source="iamatotalpieceofshit" target="PublicFreakout" id="58" weight="3" />
-      <edge source="iamatotalpieceofshit" target="Unexpected" id="59" weight="2" />
-      <edge source="iamatotalpieceofshit" target="ContagiousLaughter" id="60" weight="1" />
-      <edge source="iamatotalpieceofshit" target="AskMiddleEast" id="61" weight="1" />
-      <edge source="iamatotalpieceofshit" target="CrazyFuckingVideos" id="62" weight="1" />
-      <edge source="OpenAI" target="ToiletPaperUSA" id="63" weight="1" />
-      <edge source="OpenAI" target="Documentaries" id="64" weight="1" />
-      <edge source="OpenAI" target="Thatsactuallyverycool" id="65" weight="1" />
-      <edge source="OpenAI" target="PublicFreakout" id="66" weight="1" />
-      <edge source="OpenAI" target="boringdystopia" id="67" weight="1" />
-      <edge source="OpenAI" target="Unexpected" id="68" weight="1" />
-      <edge source="OpenAI" target="Palestine" id="69" weight="1" />
-      <edge source="OpenAI" target="Panarab" id="70" weight="1" />
-      <edge source="OpenAI" target="IRLEasterEggs" id="71" weight="1" />
-      <edge source="OpenAI" target="AskMiddleEast" id="72" weight="1" />
-      <edge source="OpenAI" target="therewasanattempt" id="73" weight="1" />
-      <edge source="OpenAI" target="IsraelCrimes" id="74" weight="1" />
-      <edge source="Britain" target="TheRightCantMeme" id="75" weight="4" />
-      <edge source="Britain" target="Palestine" id="76" weight="1" />
-      <edge source="Britain" target="GreenAndEXTREME" id="77" weight="2" />
-      <edge source="Britain" target="Enough_Vaush_Spam" id="78" weight="3" />
-      <edge source="Britain" target="LandlordLove" id="79" weight="3" />
-      <edge source="Britain" target="AbolishTheMonarchy" id="80" weight="5" />
-      <edge source="PublicFreakout" target="boringdystopia" id="81" weight="2" />
-      <edge source="PublicFreakout" target="therewasanattempt" id="82" weight="5" />
-      <edge source="PublicFreakout" target="Palestine" id="83" weight="1" />
-      <edge source="PublicFreakout" target="IRLEasterEggs" id="84" weight="1" />
-      <edge source="PublicFreakout" target="CrazyFuckingVideos" id="85" weight="1" />
-      <edge source="PublicFreakout" target="Documentaries" id="86" weight="4" />
-      <edge source="PublicFreakout" target="JustGuysBeingDudes" id="87" weight="1" />
-      <edge source="PublicFreakout" target="AskMiddleEast" id="88" weight="2" />
-      <edge source="PublicFreakout" target="ToiletPaperUSA" id="89" weight="2" />
-      <edge source="PublicFreakout" target="Panarab" id="90" weight="1" />
-      <edge source="PublicFreakout" target="ContagiousLaughter" id="91" weight="1" />
-      <edge source="PublicFreakout" target="Thatsactuallyverycool" id="92" weight="3" />
-      <edge source="PublicFreakout" target="Unexpected" id="93" weight="4" />
-      <edge source="PublicFreakout" target="IsraelCrimes" id="94" weight="2" />
-      <edge source="AbolishTheMonarchy" target="TheRightCantMeme" id="95" weight="4" />
-      <edge source="AbolishTheMonarchy" target="Palestine" id="96" weight="1" />
-      <edge source="AbolishTheMonarchy" target="GreenAndEXTREME" id="97" weight="2" />
-      <edge source="AbolishTheMonarchy" target="Enough_Vaush_Spam" id="98" weight="2" />
-      <edge source="AbolishTheMonarchy" target="LandlordLove" id="99" weight="3" />
-      <edge source="AskMiddleEast" target="boringdystopia" id="100" weight="1" />
-      <edge source="AskMiddleEast" target="therewasanattempt" id="101" weight="2" />
-      <edge source="AskMiddleEast" target="Palestine" id="102" weight="2" />
-      <edge source="AskMiddleEast" target="IRLEasterEggs" id="103" weight="1" />
-      <edge source="AskMiddleEast" target="Documentaries" id="104" weight="2" />
-      <edge source="AskMiddleEast" target="ToiletPaperUSA" id="105" weight="1" />
-      <edge source="AskMiddleEast" target="Thatsactuallyverycool" id="106" weight="2" />
-      <edge source="AskMiddleEast" target="Unexpected" id="107" weight="2" />
-      <edge source="AskMiddleEast" target="Panarab" id="108" weight="2" />
-      <edge source="AskMiddleEast" target="IsraelCrimes" id="109" weight="2" />
-      <edge source="boringdystopia" target="ToiletPaperUSA" id="110" weight="2" />
-      <edge source="boringdystopia" target="Thatsactuallyverycool" id="111" weight="3" />
+      <edge source="Britain" target="Enough_Vaush_Spam" id="0" weight="3" />
+      <edge source="Britain" target="TheRightCantMeme" id="1" weight="4" />
+      <edge source="Britain" target="lostgeneration" id="2" weight="2" />
+      <edge source="Britain" target="LandlordLove" id="3" weight="3" />
+      <edge source="Britain" target="GreenAndPleasant" id="4" weight="4" />
+      <edge source="Britain" target="AbolishTheMonarchy" id="5" weight="5" />
+      <edge source="Britain" target="Palestine" id="6" weight="1" />
+      <edge source="Britain" target="GreenAndEXTREME" id="7" weight="2" />
+      <edge source="TheRightCantMeme" target="Enough_Vaush_Spam" id="8" weight="10" />
+      <edge source="TheRightCantMeme" target="AbolishTheMonarchy" id="9" weight="4" />
+      <edge source="TheRightCantMeme" target="lostgeneration" id="10" weight="3" />
+      <edge source="TheRightCantMeme" target="LandlordLove" id="11" weight="4" />
+      <edge source="TheRightCantMeme" target="CrazyFuckingVideos" id="12" weight="1" />
+      <edge source="TheRightCantMeme" target="NonPoliticalTwitter" id="13" weight="1" />
+      <edge source="TheRightCantMeme" target="Palestine" id="14" weight="1" />
+      <edge source="TheRightCantMeme" target="GreenAndEXTREME" id="15" weight="2" />
+      <edge source="TheRightCantMeme" target="GreenAndPleasant" id="16" weight="10" />
+      <edge source="AskMiddleEast" target="IRLEasterEggs" id="17" weight="1" />
+      <edge source="AskMiddleEast" target="IsraelCrimes" id="18" weight="2" />
+      <edge source="AskMiddleEast" target="JewsOfConscience" id="19" weight="1" />
+      <edge source="AskMiddleEast" target="Hasan_Piker" id="20" weight="2" />
+      <edge source="AskMiddleEast" target="iamatotalpieceofshit" id="21" weight="1" />
+      <edge source="AskMiddleEast" target="Panarab" id="22" weight="2" />
+      <edge source="AskMiddleEast" target="ToiletPaperUSA" id="23" weight="1" />
+      <edge source="AskMiddleEast" target="Thatsactuallyverycool" id="24" weight="2" />
+      <edge source="AskMiddleEast" target="boringdystopia" id="25" weight="1" />
+      <edge source="AskMiddleEast" target="Unexpected" id="26" weight="2" />
+      <edge source="AskMiddleEast" target="therewasanattempt" id="27" weight="2" />
+      <edge source="AskMiddleEast" target="Palestine" id="28" weight="2" />
+      <edge source="AskMiddleEast" target="PublicFreakout" id="29" weight="2" />
+      <edge source="AskMiddleEast" target="Documentaries" id="30" weight="2" />
+      <edge source="AskMiddleEast" target="OpenAI" id="31" weight="1" />
+      <edge source="AskMiddleEast" target="worldnewsvideo" id="32" weight="3" />
+      <edge source="JewsOfConscience" target="Palestine" id="33" weight="1" />
+      <edge source="JewsOfConscience" target="iamatotalpieceofshit" id="34" weight="1" />
+      <edge source="LandlordLove" target="Enough_Vaush_Spam" id="35" weight="4" />
+      <edge source="LandlordLove" target="lostgeneration" id="36" weight="2" />
+      <edge source="LandlordLove" target="AbolishTheMonarchy" id="37" weight="3" />
+      <edge source="LandlordLove" target="Palestine" id="38" weight="1" />
+      <edge source="LandlordLove" target="GreenAndEXTREME" id="39" weight="2" />
+      <edge source="LandlordLove" target="GreenAndPleasant" id="40" weight="3" />
+      <edge source="Thatsactuallyverycool" target="IRLEasterEggs" id="41" weight="1" />
+      <edge source="Thatsactuallyverycool" target="IsraelCrimes" id="42" weight="2" />
+      <edge source="Thatsactuallyverycool" target="Hasan_Piker" id="43" weight="3" />
+      <edge source="Thatsactuallyverycool" target="iamatotalpieceofshit" id="44" weight="1" />
+      <edge source="Thatsactuallyverycool" target="Panarab" id="45" weight="1" />
+      <edge source="Thatsactuallyverycool" target="ToiletPaperUSA" id="46" weight="2" />
+      <edge source="Thatsactuallyverycool" target="Documentaries" id="47" weight="3" />
+      <edge source="Thatsactuallyverycool" target="Unexpected" id="48" weight="2" />
+      <edge source="Thatsactuallyverycool" target="OpenAI" id="49" weight="1" />
+      <edge source="Thatsactuallyverycool" target="therewasanattempt" id="50" weight="3" />
+      <edge source="Thatsactuallyverycool" target="Palestine" id="51" weight="1" />
+      <edge source="Thatsactuallyverycool" target="PublicFreakout" id="52" weight="3" />
+      <edge source="Thatsactuallyverycool" target="worldnewsvideo" id="53" weight="4" />
+      <edge source="Thatsactuallyverycool" target="boringdystopia" id="54" weight="3" />
+      <edge source="OpenAI" target="IRLEasterEggs" id="55" weight="1" />
+      <edge source="OpenAI" target="IsraelCrimes" id="56" weight="1" />
+      <edge source="OpenAI" target="Hasan_Piker" id="57" weight="1" />
+      <edge source="OpenAI" target="Panarab" id="58" weight="1" />
+      <edge source="OpenAI" target="ToiletPaperUSA" id="59" weight="1" />
+      <edge source="OpenAI" target="boringdystopia" id="60" weight="1" />
+      <edge source="OpenAI" target="Unexpected" id="61" weight="1" />
+      <edge source="OpenAI" target="therewasanattempt" id="62" weight="1" />
+      <edge source="OpenAI" target="Palestine" id="63" weight="1" />
+      <edge source="OpenAI" target="PublicFreakout" id="64" weight="1" />
+      <edge source="OpenAI" target="Documentaries" id="65" weight="1" />
+      <edge source="OpenAI" target="worldnewsvideo" id="66" weight="1" />
+      <edge source="Hasan_Piker" target="IRLEasterEggs" id="67" weight="1" />
+      <edge source="Hasan_Piker" target="IsraelCrimes" id="68" weight="2" />
+      <edge source="Hasan_Piker" target="Documentaries" id="69" weight="4" />
+      <edge source="Hasan_Piker" target="Unexpected" id="70" weight="3" />
+      <edge source="Hasan_Piker" target="Panarab" id="71" weight="1" />
+      <edge source="Hasan_Piker" target="ToiletPaperUSA" id="72" weight="2" />
+      <edge source="Hasan_Piker" target="therewasanattempt" id="73" weight="4" />
+      <edge source="Hasan_Piker" target="iamatotalpieceofshit" id="74" weight="2" />
+      <edge source="Hasan_Piker" target="CrazyFuckingVideos" id="75" weight="1" />
+      <edge source="Hasan_Piker" target="Palestine" id="76" weight="1" />
+      <edge source="Hasan_Piker" target="PublicFreakout" id="77" weight="4" />
+      <edge source="Hasan_Piker" target="ContagiousLaughter" id="78" weight="1" />
+      <edge source="Hasan_Piker" target="worldnewsvideo" id="79" weight="4" />
+      <edge source="Hasan_Piker" target="boringdystopia" id="80" weight="2" />
+      <edge source="iamatotalpieceofshit" target="Documentaries" id="81" weight="2" />
+      <edge source="iamatotalpieceofshit" target="Unexpected" id="82" weight="2" />
+      <edge source="iamatotalpieceofshit" target="therewasanattempt" id="83" weight="2" />
+      <edge source="iamatotalpieceofshit" target="CrazyFuckingVideos" id="84" weight="1" />
+      <edge source="iamatotalpieceofshit" target="PublicFreakout" id="85" weight="3" />
+      <edge source="iamatotalpieceofshit" target="ContagiousLaughter" id="86" weight="1" />
+      <edge source="iamatotalpieceofshit" target="worldnewsvideo" id="87" weight="2" />
+      <edge source="NonPoliticalTwitter" target="JustGuysBeingDudes" id="88" weight="2" />
+      <edge source="NonPoliticalTwitter" target="Enough_Vaush_Spam" id="89" weight="1" />
+      <edge source="NonPoliticalTwitter" target="ContagiousLaughter" id="90" weight="2" />
+      <edge source="NonPoliticalTwitter" target="GreenAndPleasant" id="91" weight="1" />
+      <edge source="NonPoliticalTwitter" target="CrazyFuckingVideos" id="92" weight="2" />
+      <edge source="JustGuysBeingDudes" target="PublicFreakout" id="93" weight="1" />
+      <edge source="JustGuysBeingDudes" target="bodymods" id="94" weight="4" />
+      <edge source="bodymods" target="PublicFreakout" id="95" weight="1" />
+      <edge source="ContagiousLaughter" target="Documentaries" id="96" weight="1" />
+      <edge source="ContagiousLaughter" target="PublicFreakout" id="97" weight="1" />
+      <edge source="ContagiousLaughter" target="Unexpected" id="98" weight="1" />
+      <edge source="ContagiousLaughter" target="CrazyFuckingVideos" id="99" weight="2" />
+      <edge source="ContagiousLaughter" target="worldnewsvideo" id="100" weight="1" />
+      <edge source="ContagiousLaughter" target="therewasanattempt" id="101" weight="1" />
+      <edge source="GreenAndPleasant" target="Enough_Vaush_Spam" id="102" weight="8" />
+      <edge source="GreenAndPleasant" target="lostgeneration" id="103" weight="2" />
+      <edge source="GreenAndPleasant" target="CrazyFuckingVideos" id="104" weight="1" />
+      <edge source="GreenAndPleasant" target="AbolishTheMonarchy" id="105" weight="3" />
+      <edge source="GreenAndPleasant" target="Palestine" id="106" weight="2" />
+      <edge source="GreenAndPleasant" target="GreenAndEXTREME" id="107" weight="4" />
+      <edge source="boringdystopia" target="IRLEasterEggs" id="108" weight="1" />
+      <edge source="boringdystopia" target="IsraelCrimes" id="109" weight="5" />
+      <edge source="boringdystopia" target="Panarab" id="110" weight="1" />
+      <edge source="boringdystopia" target="ToiletPaperUSA" id="111" weight="2" />
       <edge source="boringdystopia" target="Documentaries" id="112" weight="4" />
       <edge source="boringdystopia" target="Unexpected" id="113" weight="1" />
-      <edge source="boringdystopia" target="Palestine" id="114" weight="4" />
-      <edge source="boringdystopia" target="Panarab" id="115" weight="1" />
-      <edge source="boringdystopia" target="IRLEasterEggs" id="116" weight="1" />
-      <edge source="boringdystopia" target="therewasanattempt" id="117" weight="2" />
-      <edge source="boringdystopia" target="IsraelCrimes" id="118" weight="5" />
-      <edge source="Palestine" target="TheRightCantMeme" id="119" weight="1" />
-      <edge source="Palestine" target="therewasanattempt" id="120" weight="1" />
-      <edge source="Palestine" target="ToiletPaperUSA" id="121" weight="1" />
-      <edge source="Palestine" target="Documentaries" id="122" weight="3" />
-      <edge source="Palestine" target="Thatsactuallyverycool" id="123" weight="1" />
-      <edge source="Palestine" target="Unexpected" id="124" weight="1" />
-      <edge source="Palestine" target="GreenAndEXTREME" id="125" weight="2" />
-      <edge source="Palestine" target="Panarab" id="126" weight="2" />
-      <edge source="Palestine" target="IRLEasterEggs" id="127" weight="1" />
-      <edge source="Palestine" target="Enough_Vaush_Spam" id="128" weight="1" />
-      <edge source="Palestine" target="LandlordLove" id="129" weight="1" />
-      <edge source="Palestine" target="IsraelCrimes" id="130" weight="7" />
-      <edge source="GreenAndEXTREME" target="TheRightCantMeme" id="131" weight="2" />
-      <edge source="GreenAndEXTREME" target="Enough_Vaush_Spam" id="132" weight="2" />
-      <edge source="GreenAndEXTREME" target="LandlordLove" id="133" weight="2" />
-      <edge source="Panarab" target="therewasanattempt" id="134" weight="1" />
-      <edge source="Panarab" target="IRLEasterEggs" id="135" weight="1" />
-      <edge source="Panarab" target="Documentaries" id="136" weight="1" />
-      <edge source="Panarab" target="Unexpected" id="137" weight="1" />
-      <edge source="Panarab" target="Thatsactuallyverycool" id="138" weight="1" />
-      <edge source="Panarab" target="ToiletPaperUSA" id="139" weight="1" />
-      <edge source="Panarab" target="IsraelCrimes" id="140" weight="2" />
-      <edge source="ContagiousLaughter" target="therewasanattempt" id="141" weight="1" />
-      <edge source="ContagiousLaughter" target="CrazyFuckingVideos" id="142" weight="2" />
-      <edge source="ContagiousLaughter" target="Documentaries" id="143" weight="1" />
-      <edge source="ContagiousLaughter" target="Unexpected" id="144" weight="1" />
-      <edge source="ContagiousLaughter" target="NonPoliticalTwitter" id="145" weight="2" />
-      <edge source="IRLEasterEggs" target="therewasanattempt" id="146" weight="1" />
-      <edge source="IRLEasterEggs" target="Unexpected" id="147" weight="1" />
-      <edge source="IRLEasterEggs" target="Documentaries" id="148" weight="1" />
-      <edge source="IRLEasterEggs" target="Thatsactuallyverycool" id="149" weight="1" />
-      <edge source="IRLEasterEggs" target="ToiletPaperUSA" id="150" weight="1" />
-      <edge source="IRLEasterEggs" target="IsraelCrimes" id="151" weight="1" />
-      <edge source="CrazyFuckingVideos" target="TheRightCantMeme" id="152" weight="1" />
-      <edge source="CrazyFuckingVideos" target="therewasanattempt" id="153" weight="1" />
-      <edge source="CrazyFuckingVideos" target="Documentaries" id="154" weight="1" />
-      <edge source="CrazyFuckingVideos" target="Unexpected" id="155" weight="1" />
-      <edge source="CrazyFuckingVideos" target="Enough_Vaush_Spam" id="156" weight="1" />
-      <edge source="CrazyFuckingVideos" target="NonPoliticalTwitter" id="157" weight="2" />
-      <edge source="Documentaries" target="therewasanattempt" id="158" weight="4" />
-      <edge source="Documentaries" target="ToiletPaperUSA" id="159" weight="2" />
-      <edge source="Documentaries" target="Thatsactuallyverycool" id="160" weight="3" />
-      <edge source="Documentaries" target="Unexpected" id="161" weight="3" />
-      <edge source="Documentaries" target="IsraelCrimes" id="162" weight="4" />
-      <edge source="Thatsactuallyverycool" target="therewasanattempt" id="163" weight="3" />
-      <edge source="Thatsactuallyverycool" target="Unexpected" id="164" weight="2" />
-      <edge source="Thatsactuallyverycool" target="ToiletPaperUSA" id="165" weight="2" />
-      <edge source="Thatsactuallyverycool" target="IsraelCrimes" id="166" weight="2" />
-      <edge source="TheRightCantMeme" target="Enough_Vaush_Spam" id="167" weight="10" />
-      <edge source="TheRightCantMeme" target="NonPoliticalTwitter" id="168" weight="1" />
-      <edge source="TheRightCantMeme" target="LandlordLove" id="169" weight="4" />
-      <edge source="Unexpected" target="therewasanattempt" id="170" weight="3" />
-      <edge source="Unexpected" target="ToiletPaperUSA" id="171" weight="1" />
-      <edge source="Unexpected" target="IsraelCrimes" id="172" weight="1" />
-      <edge source="JustGuysBeingDudes" target="NonPoliticalTwitter" id="173" weight="2" />
-      <edge source="ToiletPaperUSA" target="therewasanattempt" id="174" weight="2" />
-      <edge source="ToiletPaperUSA" target="IsraelCrimes" id="175" weight="2" />
-      <edge source="Enough_Vaush_Spam" target="NonPoliticalTwitter" id="176" weight="1" />
-      <edge source="Enough_Vaush_Spam" target="LandlordLove" id="177" weight="4" />
-      <edge source="therewasanattempt" target="IsraelCrimes" id="178" weight="2" />
+      <edge source="boringdystopia" target="therewasanattempt" id="114" weight="2" />
+      <edge source="boringdystopia" target="Palestine" id="115" weight="4" />
+      <edge source="boringdystopia" target="PublicFreakout" id="116" weight="2" />
+      <edge source="boringdystopia" target="worldnewsvideo" id="117" weight="3" />
+      <edge source="Documentaries" target="IRLEasterEggs" id="118" weight="1" />
+      <edge source="Documentaries" target="IsraelCrimes" id="119" weight="4" />
+      <edge source="Documentaries" target="Panarab" id="120" weight="1" />
+      <edge source="Documentaries" target="ToiletPaperUSA" id="121" weight="2" />
+      <edge source="Documentaries" target="CrazyFuckingVideos" id="122" weight="1" />
+      <edge source="Documentaries" target="Unexpected" id="123" weight="3" />
+      <edge source="Documentaries" target="therewasanattempt" id="124" weight="4" />
+      <edge source="Documentaries" target="Palestine" id="125" weight="3" />
+      <edge source="Documentaries" target="PublicFreakout" id="126" weight="4" />
+      <edge source="Documentaries" target="worldnewsvideo" id="127" weight="4" />
+      <edge source="AbolishTheMonarchy" target="Enough_Vaush_Spam" id="128" weight="2" />
+      <edge source="AbolishTheMonarchy" target="lostgeneration" id="129" weight="3" />
+      <edge source="AbolishTheMonarchy" target="Palestine" id="130" weight="1" />
+      <edge source="AbolishTheMonarchy" target="GreenAndEXTREME" id="131" weight="2" />
+      <edge source="lostgeneration" target="Enough_Vaush_Spam" id="132" weight="2" />
+      <edge source="lostgeneration" target="Palestine" id="133" weight="1" />
+      <edge source="lostgeneration" target="GreenAndEXTREME" id="134" weight="1" />
+      <edge source="Unexpected" target="IRLEasterEggs" id="135" weight="1" />
+      <edge source="Unexpected" target="IsraelCrimes" id="136" weight="1" />
+      <edge source="Unexpected" target="Panarab" id="137" weight="1" />
+      <edge source="Unexpected" target="ToiletPaperUSA" id="138" weight="1" />
+      <edge source="Unexpected" target="CrazyFuckingVideos" id="139" weight="1" />
+      <edge source="Unexpected" target="therewasanattempt" id="140" weight="3" />
+      <edge source="Unexpected" target="Palestine" id="141" weight="1" />
+      <edge source="Unexpected" target="PublicFreakout" id="142" weight="4" />
+      <edge source="Unexpected" target="worldnewsvideo" id="143" weight="3" />
+      <edge source="Panarab" target="IRLEasterEggs" id="144" weight="1" />
+      <edge source="Panarab" target="IsraelCrimes" id="145" weight="2" />
+      <edge source="Panarab" target="Palestine" id="146" weight="2" />
+      <edge source="Panarab" target="PublicFreakout" id="147" weight="1" />
+      <edge source="Panarab" target="ToiletPaperUSA" id="148" weight="1" />
+      <edge source="Panarab" target="worldnewsvideo" id="149" weight="1" />
+      <edge source="Panarab" target="therewasanattempt" id="150" weight="1" />
+      <edge source="ToiletPaperUSA" target="IRLEasterEggs" id="151" weight="1" />
+      <edge source="ToiletPaperUSA" target="IsraelCrimes" id="152" weight="2" />
+      <edge source="ToiletPaperUSA" target="therewasanattempt" id="153" weight="2" />
+      <edge source="ToiletPaperUSA" target="Palestine" id="154" weight="1" />
+      <edge source="ToiletPaperUSA" target="PublicFreakout" id="155" weight="2" />
+      <edge source="ToiletPaperUSA" target="worldnewsvideo" id="156" weight="2" />
+      <edge source="therewasanattempt" target="IRLEasterEggs" id="157" weight="1" />
+      <edge source="therewasanattempt" target="IsraelCrimes" id="158" weight="2" />
+      <edge source="therewasanattempt" target="CrazyFuckingVideos" id="159" weight="1" />
+      <edge source="therewasanattempt" target="Palestine" id="160" weight="1" />
+      <edge source="therewasanattempt" target="PublicFreakout" id="161" weight="5" />
+      <edge source="therewasanattempt" target="worldnewsvideo" id="162" weight="6" />
+      <edge source="CrazyFuckingVideos" target="Enough_Vaush_Spam" id="163" weight="1" />
+      <edge source="CrazyFuckingVideos" target="PublicFreakout" id="164" weight="1" />
+      <edge source="CrazyFuckingVideos" target="worldnewsvideo" id="165" weight="1" />
+      <edge source="IRLEasterEggs" target="Palestine" id="166" weight="1" />
+      <edge source="IRLEasterEggs" target="PublicFreakout" id="167" weight="1" />
+      <edge source="IRLEasterEggs" target="IsraelCrimes" id="168" weight="1" />
+      <edge source="IRLEasterEggs" target="worldnewsvideo" id="169" weight="1" />
+      <edge source="Palestine" target="Enough_Vaush_Spam" id="170" weight="1" />
+      <edge source="Palestine" target="IsraelCrimes" id="171" weight="7" />
+      <edge source="Palestine" target="PublicFreakout" id="172" weight="1" />
+      <edge source="Palestine" target="GreenAndEXTREME" id="173" weight="2" />
+      <edge source="Palestine" target="worldnewsvideo" id="174" weight="1" />
+      <edge source="Enough_Vaush_Spam" target="GreenAndEXTREME" id="175" weight="2" />
+      <edge source="PublicFreakout" target="IsraelCrimes" id="176" weight="2" />
+      <edge source="PublicFreakout" target="worldnewsvideo" id="177" weight="4" />
+      <edge source="IsraelCrimes" target="worldnewsvideo" id="178" weight="2" />
     </edges>
   </graph>
 </gexf>
