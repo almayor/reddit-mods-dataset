@@ -5,7 +5,7 @@ _RedditMods_ is a dataset that lists moderators of 25'834 largest and most popul
 
 ## Data Collection
 
-The data was scraped in the associated [Jupyter Notebook](code/reddit-mods-ds.ipynb). The data was publically available and collected on 06 Feb 2024. All usernames were anonymised by hashing with SHA256.
+The data was scraped in the associated [Jupyter Notebook](code/reddit-mods-ds.ipynb). The data was publically available and collected on 06 Feb 2024. All usernames were anonymised by hashing with SHA256, so that they cannot be linked to the moderators' accounts.
 
 ## Description of Files
 
