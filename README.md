@@ -1,11 +1,11 @@
 # RedditMods: Moderators of top-25'000 subreddits
-<a href="https://www.kaggle.com/datasets/gingerbadger/redditmods-moderators-of-top-25000-subreddits" rel="Kaggle dataset">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a> ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+<a href="https://www.kaggle.com/datasets/gingerbadger/redditmods-moderators-of-top-25k-subreddits/data" rel="Kaggle dataset">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a> ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 
-_RedditMods_ is a dataset that lists moderators of 25'834 largest and most popular communities on Reddit. The dataset is ideal for studying subreddits as a graph, where edges are moderators and nodes are subreddits.
+_RedditMods_ is a dataset that lists moderators of 25'834 largest and most popular communities on Reddit. The dataset is ideal for studying Reddit as a bipartite graph, where a moderator-node and a community-node are connected if the corresponding user moderates this subreddit. Clustering can then be performed to identify groups of subredits with a particular leaning, or to recommend similar communities.
 
 ## Data Collection
 
-The data was scraped in the associated [Jupyter Notebook](code/reddit-mods-ds.ipynb). The data was publically available and collected on 06 Feb 2024. All usernames were anonymised by hashing with SHA256.
+The data was scraped in the associated [Jupyter Notebook](code/reddit-mods-ds.ipynb). The data was publicly available and collected on 06 Feb 2024. All usernames were anonymised by hashing with SHA256, so that they cannot be linked to the moderators' Reddit accounts.
 
 ## Description of Files
 
@@ -51,7 +51,7 @@ The data is available both as a table and a bipartite graph.
 
 ## Examples
 
-* [Visualising a cluster of subreddits moderated by a group of users](./example)
+* [Visualising a cluster of subreddits moderated by a group of users](./example/example.ipynb)
 
 ## Notes and warnings
 
