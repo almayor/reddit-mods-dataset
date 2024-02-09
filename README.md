@@ -53,6 +53,12 @@ The data is available both as a table and a bipartite graph.
 
 * [Visualising a cluster of subreddits moderated by a group of users](./example/example.ipynb)
 
+
+<p float="left">
+  <img src="example/example-bipartite-india.png" width="500" />
+  <img src="example/example-projected.png" width="500" /> 
+</p>
+
 ## Notes and warnings
 
 I used a very simple procedure to filter out auto-moderators: (1) a short list of known bots (e.g. `u/AutoModerator`), (2) username starts or ends with `bot`. An additional procedure to identify and remove bots might be necessary. For an example, see [this notebook](example/example.ipynb).
