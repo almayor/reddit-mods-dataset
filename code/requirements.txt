@@ -13,12 +13,15 @@ certifi==2024.2.2
 cffi==1.16.0
 charset-normalizer==3.3.2
 comm==0.2.1
+contourpy==1.3.0
+cycler==0.12.1
 debugpy==1.8.0
 decorator==5.1.1
 defusedxml==0.7.1
 exceptiongroup==1.2.0
 executing==2.0.1
 fastjsonschema==2.19.1
+fonttools==4.54.1
 fqdn==1.5.1
 h11==0.14.0
 httpcore==1.0.2
@@ -46,8 +49,11 @@ jupyterlab==4.1.0
 jupyterlab-widgets==3.0.9
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.25.2
+kiwisolver==1.4.7
 MarkupSafe==2.1.5
+matplotlib==3.9.2
 matplotlib-inline==0.1.6
+matplotlib-venn==1.1.1
 mistune==3.0.2
 nbclient==0.9.0
 nbconvert==7.15.0
@@ -64,6 +70,7 @@ pandas==2.2.0
 pandocfilters==1.5.1
 parso==0.8.3
 pexpect==4.9.0
+pillow==10.4.0
 platformdirs==4.2.0
 praw==7.7.1
 prawcore==2.4.0
@@ -72,8 +79,10 @@ prompt-toolkit==3.0.43
 psutil==5.9.8
 ptyprocess==0.7.0
 pure-eval==0.2.2
+pyarrow==17.0.0
 pycparser==2.21
 Pygments==2.17.2
+pyparsing==3.1.4
 PySocks==1.7.1
 python-dateutil==2.8.2
 python-dotenv==1.0.1
@@ -88,7 +97,8 @@ requests==2.31.0
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rpds-py==0.17.1
-selenium==4.17.2
+scipy==1.14.1
+selenium==4.25.0
 Send2Trash==1.8.2
 six==1.16.0
 sniffio==1.3.0
@@ -112,6 +122,6 @@ urllib3==2.2.0
 wcwidth==0.2.13
 webcolors==1.13
 webencodings==0.5.1
-websocket-client==1.7.0
+websocket-client==1.8.0
 widgetsnbextension==4.0.9
 wsproto==1.2.0
